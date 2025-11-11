@@ -1,0 +1,26 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    barby (0.7.0)
+    chunky_png (1.4.0)
+    jruby-jars (10.0.2.0)
+    minitest (5.26.1)
+    rqrcode (3.1.0)
+      chunky_png (~> 1.0)
+      rqrcode_core (~> 2.0)
+    rqrcode_core (2.0.0)
+    zxing (0.4.0)
+      jruby-jars
+
+PLATFORMS
+  x64-mingw-ucrt
+
+DEPENDENCIES
+  barby
+  chunky_png
+  minitest
+  rqrcode
+  zxing
+
+BUNDLED WITH
+   2.6.9

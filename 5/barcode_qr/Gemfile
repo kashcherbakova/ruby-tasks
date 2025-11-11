@@ -1,0 +1,7 @@
+source "https://rubygems.org"
+
+gem "rqrcode"       # генерація QR
+gem "barby"         # генерація штрихкодів
+gem "chunky_png"    # для PNG
+gem "minitest"      # для тестів
+gem "zxing"         # для декодування QR
